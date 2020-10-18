@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mahnoor1999/todolist-react.git/static/css/main.0a2d727b.chunk.css",
-    "main.js": "/mahnoor1999/todolist-react.git/static/js/main.2ef24c26.chunk.js",
-    "main.js.map": "/mahnoor1999/todolist-react.git/static/js/main.2ef24c26.chunk.js.map",
-    "runtime-main.js": "/mahnoor1999/todolist-react.git/static/js/runtime-main.d478f79b.js",
-    "runtime-main.js.map": "/mahnoor1999/todolist-react.git/static/js/runtime-main.d478f79b.js.map",
-    "static/js/2.164cbc87.chunk.js": "/mahnoor1999/todolist-react.git/static/js/2.164cbc87.chunk.js",
-    "static/js/2.164cbc87.chunk.js.map": "/mahnoor1999/todolist-react.git/static/js/2.164cbc87.chunk.js.map",
-    "index.html": "/mahnoor1999/todolist-react.git/index.html",
-    "precache-manifest.bb5114e4cd376dc424a2de002b17dac9.js": "/mahnoor1999/todolist-react.git/precache-manifest.bb5114e4cd376dc424a2de002b17dac9.js",
-    "service-worker.js": "/mahnoor1999/todolist-react.git/service-worker.js",
-    "static/css/main.0a2d727b.chunk.css.map": "/mahnoor1999/todolist-react.git/static/css/main.0a2d727b.chunk.css.map",
-    "static/js/2.164cbc87.chunk.js.LICENSE.txt": "/mahnoor1999/todolist-react.git/static/js/2.164cbc87.chunk.js.LICENSE.txt"
+    "main.css": "/todolist-react/static/css/main.0a2d727b.chunk.css",
+    "main.js": "/todolist-react/static/js/main.2ef24c26.chunk.js",
+    "main.js.map": "/todolist-react/static/js/main.2ef24c26.chunk.js.map",
+    "runtime-main.js": "/todolist-react/static/js/runtime-main.f4b48d87.js",
+    "runtime-main.js.map": "/todolist-react/static/js/runtime-main.f4b48d87.js.map",
+    "static/js/2.164cbc87.chunk.js": "/todolist-react/static/js/2.164cbc87.chunk.js",
+    "static/js/2.164cbc87.chunk.js.map": "/todolist-react/static/js/2.164cbc87.chunk.js.map",
+    "index.html": "/todolist-react/index.html",
+    "precache-manifest.1e471fca5bfdc1b6fdd87c1d59b869ae.js": "/todolist-react/precache-manifest.1e471fca5bfdc1b6fdd87c1d59b869ae.js",
+    "service-worker.js": "/todolist-react/service-worker.js",
+    "static/css/main.0a2d727b.chunk.css.map": "/todolist-react/static/css/main.0a2d727b.chunk.css.map",
+    "static/js/2.164cbc87.chunk.js.LICENSE.txt": "/todolist-react/static/js/2.164cbc87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d478f79b.js",
+    "static/js/runtime-main.f4b48d87.js",
     "static/js/2.164cbc87.chunk.js",
     "static/css/main.0a2d727b.chunk.css",
     "static/js/main.2ef24c26.chunk.js"
