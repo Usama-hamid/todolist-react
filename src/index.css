@@ -1,13 +1,54 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Roboto", "sans-serif";
+  background-color: #75c3c7;
+}
+/* main div that parent of form  */
+.main-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+/* div contain input and trash icon */
+.task-item-list{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 14px auto;
+}
+/* trash icon */
+.faicons{
+  margin-right: 28px;
+  font-size: 17px;
+  color: #ee3d35;
+}
+/* input field */
+.input-task {
+  border: none;
+  background-color: rgba(253, 253, 253, 0.1);
+  font-size: 20px;
+  border-bottom: 1px solid gray;
+
+}
+.input-task:focus {
+  outline: none;
+}
+/* form container */
+.list-container {
+  background-color: #fff8e6;
+  text-align: center;
+  padding: 3.5% 3%;
+  border-radius: 15px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* button  */
+.add-btn{
+  padding: 5px 17px;
+  background-color: #122536;
+  color: #fff8e6;
+  font-size: 17px;
+  border-radius: 15px;
+  margin-left: 12px;
 }
