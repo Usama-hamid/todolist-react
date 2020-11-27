@@ -53,3 +53,8 @@ margin: 14px auto;
   border-radius: 15px;
   margin-left: 12px;
 }
+h1{
+  font-size: 50px ;
+  color:  #fff8e6;
+  text-shadow: black 2px 2px;
+}
